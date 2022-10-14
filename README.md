@@ -4,3 +4,4 @@ This is my first repository
 # Second modification from github
 # Third modification from github
 # Conflict modification from github
+# Conflict modification from local Repo
